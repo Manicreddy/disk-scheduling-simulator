@@ -17,6 +17,7 @@ Modular and extensible codebase
 Programming Language: Python
 (Optional) GUI Framework: Tkinter / JavaFX / etc.
 Version Control: Git
+
 📂 Project Structure
 
 ![image](https://github.com/user-attachments/assets/a1477fec-d667-47e2-8067-d3e3a2587c3c)
@@ -30,5 +31,6 @@ Install [Python]
 Clone the repository:
 git clone https://github.com/Manicreddy/disk-scheduling-simulator.git
 cd Advanced-Disk-Scheduling-Simulator
+
 Example for Python
 python main.py
