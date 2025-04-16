@@ -28,7 +28,7 @@ Version Control: Git
 Prerequisites
 Install [Python]
 Clone the repository:
-git clone https://github.com/akhilamanoj19/diskScheduling-Simulator.git
+git clone https://github.com/Manicreddy/disk-scheduling-simulator.git
 cd Advanced-Disk-Scheduling-Simulator
 Example for Python
 python main.py
